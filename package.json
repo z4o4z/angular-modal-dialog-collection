@@ -1,0 +1,26 @@
+{
+  "name": "angular-modal-dialog-collection",
+  "version": "1.0.0",
+  "description": "A simple AngularJS service for displaying a full screen splash modal.",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z4o4z/angular-modal-dialog-collection.git"
+  },
+  "keywords": [
+    "angular",
+    "modal",
+    "popup",
+    "dialog",
+    "collection"
+  ],
+  "author": "Evgeny Zaytsev <overhawlin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z4o4z/angular-modal-dialog-collection/issues"
+  },
+  "homepage": "https://github.com/z4o4z/angular-modal-dialog-collection#readme"
+}
